@@ -1,4 +1,3 @@
-
 package com.onboarding.notification;
 
 import org.springframework.boot.SpringApplication;
